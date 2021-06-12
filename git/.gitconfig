@@ -1,3 +1,6 @@
+
+# ~/.gitconfig - https://github.com/craftzdog/dotfiles-public.git
+
 [user]
 	email = ramy@ferjani.fr
 	name = Ramy Ferjani
