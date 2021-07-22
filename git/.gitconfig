@@ -2,7 +2,7 @@
 # ~/.gitconfig - https://github.com/craftzdog/dotfiles-public.git
 
 [user]
-	email = ramy@ferjani.fr
+	email = 32905536+ramymain@users.noreply.github.com
 	name = Ramy Ferjani
 [core]
 	excludesfile = ~/.gitignore
