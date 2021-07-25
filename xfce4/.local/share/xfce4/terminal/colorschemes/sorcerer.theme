@@ -1,0 +1,12 @@
+[Scheme]
+Name=Sorcerer
+ColorForeground=#e3e3ea
+ColorBackground=#0E141A
+ColorPalette=rgb(14, 20, 26);rgb(255,0,106);rgb(170,237,54);rgb(245,175,25);rgb(68,223,255);rgb(127,63,191);rgb(110,125,154);rgb(205,204,219);rgb(68,223,255);rgb(255,0,106);rgb(153,153,204);rgb(255,127,127);rgb(110,125,154);rgb(127,63,191);rgb(110,125,154);rgb(227,227,234)
+ColorCursor=#ff006a
+ColorCursorForeground=#FFFFFF
+ColorBold=#44dfff
+TabActivityColor=#aaed36
+ColorCursorUseDefault=FALSE
+ColorBoldIsBright=FALSE
+ColorSelectionUseDefault=TRUE
